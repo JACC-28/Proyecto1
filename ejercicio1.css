@@ -1,0 +1,25 @@
+body {
+  background-color: #f0f4f8;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mensaje-card {
+  max-width: 500px;
+  margin: 100px auto;
+  padding: 2rem;
+  border-radius: 15px;
+  background-color: #fff5f8;
+  border: 2px solid #f8d7da;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.mensaje-card h1 {
+  color: #333;
+  font-weight: bold;
+}
+
+.mensaje-card p {
+  color: #555;
+  font-size: 1.1;
+}
